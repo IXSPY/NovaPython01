@@ -22,13 +22,13 @@
 
 // --------------------------
 
-// let colros = ["red", "green", "blue"];
+// let colors = ["red", "green", "blue"];
 
-// for (index in colros) {
-//   console.log(index, colros[index]);
+// for (index in colors) {
+//   console.log(index, colors[index]);
 // }
 
-// for (item of colros) {
+// for (item of colors) {
 //   console.log(item);
 // }
 
